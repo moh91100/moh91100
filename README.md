@@ -1,9 +1,5 @@
 # MOH | SYSTEM ARCHITECT
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=MOH91100&fontSize=80" />
-</p>
-
 ## Arsenal Technique
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -13,11 +9,6 @@
 </p>
 
 ---
-
-## Statistiques
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moh91100&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 ---
 
