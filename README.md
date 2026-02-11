@@ -1,7 +1,6 @@
 # MOH
 
 ## Arsenal Technique
-## Arsenal Technique
 
 ### Front-End
 <p align="left">
