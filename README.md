@@ -1,7 +1,7 @@
 # 0xMOH | SYSTEM ARCHITECT ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=MOH91100&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=MOH91100&fontSize=80" alt="header" />
 </p>
 
 ## 📂 Arsenal Technique
@@ -14,16 +14,17 @@
 
 ---
 
-## 📊 Analyse de Données
+## 📊 Statistiques
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moh91100&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh91100&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=moh91100&show_icons=true&theme=dark" alt="Stats" />
 </p>
 
 ---
 
 ## 🌩 Flux d'Activité
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=moh91100&theme=dracula)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moh91100&theme=dracula" alt="Graph" />
+</p>
 
 ---
 
