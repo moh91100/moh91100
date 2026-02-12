@@ -1,6 +1,5 @@
 # MOH
 
----
 
 ## Arsenal Technique
 
