@@ -41,12 +41,5 @@
 
 ---
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moh91100&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-</p>
-
----
-
 ## Historique & Vision
 > "Le code est le seul langage qui permet de réécrire l'histoire en temps réel."
