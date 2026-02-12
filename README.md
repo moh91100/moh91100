@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+---
+
 ### Back-End & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -18,6 +20,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+---
 
 ### Tools & Systems
 <p align="left">
@@ -33,6 +37,13 @@
 ## Flux d'Activité
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moh91100&theme=react-dark" />
+</p>
+
+---
+
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moh91100&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
 </p>
 
 ---
