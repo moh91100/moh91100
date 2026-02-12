@@ -1,14 +1,5 @@
 # MOH
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=MOH91100&fontSize=80" />
-</p>
-
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moh91100&theme=radical&no-bg=true" />
-</p>
-
 ---
 
 ## Arsenal Technique
@@ -60,6 +51,5 @@
 > "Le code est le seul langage qui permet de réécrire l'histoire en temps réel."
 
 ---
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=moh91100&color=blue&style=flat-square&label=PROFILE+VIEWS" />
 </p>
