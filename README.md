@@ -38,10 +38,6 @@
 
 ## Statistiques & Activité
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moh91100&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moh91100&theme=dracula" />
 </p>
 
